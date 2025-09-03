@@ -36,6 +36,7 @@ ohmyzsh/ohmyzsh path:plugins/gpg-agent
 ohmyzsh/ohmyzsh path:plugins/helm
 ohmyzsh/ohmyzsh path:plugins/k9s
 ohmyzsh/ohmyzsh path:plugins/kubectl
+ohmyzsh/ohmyzsh path:plugins/mise
 ohmyzsh/ohmyzsh path:plugins/ubuntu
 atuinsh/atuin
 djui/alias-tips
